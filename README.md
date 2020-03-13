@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/M1055938/Space%20Game%20-%20web/_apis/build/status/Laharivegiraju22.AzureDevops201?branchName=master)](https://dev.azure.com/M1055938/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
